@@ -330,6 +330,14 @@
     [
       "1b5ea002-93c1-4c1a-84fe-1be990ce5b88",
       "Power"
+    ],
+    [
+      "ecf54d9e-4eae-40ab-a7d9-5c12ffcd280a",
+      "ecg"
+    ],
+    [
+      "5480d212-74e8-4835-a8d9-2f95594383a2",
+      "analog_frontend"
     ]
   ],
   "text_variables": {}
