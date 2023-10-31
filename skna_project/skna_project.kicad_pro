@@ -311,7 +311,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "OrcadPCB2",
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
@@ -332,12 +332,20 @@
       "Power"
     ],
     [
-      "ecf54d9e-4eae-40ab-a7d9-5c12ffcd280a",
-      "ecg"
+      "5480d212-74e8-4835-a8d9-2f95594383a2",
+      "analog_frontend_f1"
     ],
     [
-      "5480d212-74e8-4835-a8d9-2f95594383a2",
-      "analog_frontend"
+      "d7daca47-e452-4147-bf6a-f2083ba65dd0",
+      "ads8232"
+    ],
+    [
+      "8eed9643-d61b-4f3d-872a-ec6f47159ccf",
+      "flash_memory"
+    ],
+    [
+      "d202c99a-feda-4945-8878-bdd461d5c708",
+      "analog_frontend_f2"
     ]
   ],
   "text_variables": {}
